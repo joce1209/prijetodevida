@@ -22,3 +22,8 @@ font-family: ‘Chakra Petch’, sans-serif
 
         .titulo-principal span {
             color: var(--verde); }
+
+            .ativo{
+                background-color: var(--botao-ativo);
+                border-bottom: 4px solid var(--verde);
+                }
